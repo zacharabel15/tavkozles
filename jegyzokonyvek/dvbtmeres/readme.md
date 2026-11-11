@@ -11,7 +11,14 @@
 
 2. **Mérési helyszín és környezet**  
    - **Koordináták:**
-   - **Antenna típusas:** [ISKRA G2235-06](https://bolt.sat.hu/iskra-g2235-06-szobaantenna-36-dbi-2944?srsltid=AYCX9vJzBHMPu0K5dxwqg9u8OlHPGr97kqK0citF8P_0Du3dcA4tektM)  
+   - **Antenna típusas:** [ISKRA G2235-06](https://bolt.sat.hu/iskra-g2235-06-szobaantenna-36-dbi-2944?srsltid=AYCX9vJzBHMPu0K5dxwqg9u8OlHPGr97kqK0citF8P_0Du3dcA4tektM)
+   - **Antenna magassága:** 1,1 m
+   - **Környezet jellemzői:** V3 labor, városi körülmények között
+   - **Adó távolsága:** 780,03 m
+
+3. **Mérési paraméterek:**
+
+   
    
     
 
